@@ -1,0 +1,29 @@
+_repo: Wir-ritten-fur-Deutsch-Ostafrika_70246
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Langenberg, Hanns
+    gutenberg_agent_id: '55668'
+    url: http://www.gutenberg.org/2009/agents/55668
+creator:
+  author:
+    agent_name: Inhülsen, Otto
+    gutenberg_agent_id: '55667'
+    url: http://www.gutenberg.org/2009/agents/55667
+description: ''
+gutenberg_issued: '2023-03-09'
+identifiers:
+  gutenberg: '70246'
+language: de
+pgterms:marc905: 20220813075529inhlfen
+pgterms:marc906: '1926'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aGermany :$bv. Hase & Koehler Verlag, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Wir ritten für Deutsch-Ostafrika
+url: http://www.gutenberg.org/ebooks/70246
