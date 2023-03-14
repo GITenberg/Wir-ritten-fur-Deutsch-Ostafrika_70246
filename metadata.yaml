@@ -5,12 +5,17 @@ contributor:
     agent_name: Langenberg, Hanns
     gutenberg_agent_id: '55668'
     url: http://www.gutenberg.org/2009/agents/55668
+covers:
+- cover_type: archival
+  image_path: 70246-h/images/cover.jpg
 creator:
   author:
     agent_name: Inhülsen, Otto
     gutenberg_agent_id: '55667'
     url: http://www.gutenberg.org/2009/agents/55667
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70246#Wir-ritten-fur-Deutsch-Ostafrika
 gutenberg_issued: '2023-03-09'
 identifiers:
   gutenberg: '70246'
